@@ -1,0 +1,15 @@
+{
+  "name": "github-actions-ci-demo",
+  "version": "1.0.0",
+  "description": "Базовий приклад CI-пайплайну GitHub Actions для Node.js",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "keywords": [
+    "github-actions",
+    "ci",
+    "nodejs"
+  ],
+  "license": "MIT"
+}
